@@ -1,0 +1,47 @@
+type Country @model {
+  id: ID! @isUnique
+  name: String!
+
+  locations: [Location!]! @relation(name: "CountryLocations")
+}
+
+type Location @model {
+  id: ID! @isUnique
+  name: String!
+
+  country: Country! @relation(name: "CountryLocations")
+
+  spots: [Spot!]! @relation(name: "LocationSpots")
+}
+
+type Spot @model {
+  id: ID! @isUnique
+  name: String!
+  bottom: BOTTOM!
+  bestMonths: [MONTH!]!
+
+  location: Location! @relation(name: "LocationSpots")
+}
+
+enum BOTTOM {
+  REEFCORAL
+  REEFROCKY
+  POINTBREAK
+  BEACHBREAK
+  RIVERMOUTH
+}
+
+enum MONTH {
+  JANUARY
+  FEBRUARY
+  MARCH
+  APRIL
+  MAY
+  JUNE
+  JULY
+  AUGUST
+  SEPTEMBER
+  OCTOBER
+  NOVEMBER
+  DECEMBER
+}
