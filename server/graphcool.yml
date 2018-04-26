@@ -32,12 +32,13 @@ functions:
 # Read more here:
 # https://www.graph.cool/docs/reference/auth/authorization/overview-iegoo0heez
 permissions:
-  - operation: "*"
-
+  - operation: Spot.read
+  - operation: Location.read
+  - operation: Country.read
 
 # Your root tokens used for functions to get full access to the API
 # Read more here:
 # https://www.graph.cool/docs/reference/auth/authentication/authentication-tokens-eip7ahqu5o
-# rootTokens:
-#   - mytoken
+rootTokens:
+  - manualUsageToken
 
