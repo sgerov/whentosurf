@@ -1,0 +1,704 @@
+{
+  "items": [
+    {
+      "name": "Algeria",
+      "href": "https://www.wannasurf.com/spot/Africa/Algeria/index.html"
+    },
+    {
+      "name": "Angola",
+      "href": "https://www.wannasurf.com/spot/Africa/Angola/index.html"
+    },
+    {
+      "name": "Benin",
+      "href": "https://www.wannasurf.com/spot/Africa/Benin/index.html"
+    },
+    {
+      "name": "Cameroon",
+      "href": "https://www.wannasurf.com/spot/Africa/Cameroon/index.html"
+    },
+    {
+      "name": "Cape Verde",
+      "href": "https://www.wannasurf.com/spot/Africa/Cape_Verde/index.html"
+    },
+    {
+      "name": "Comoros",
+      "href": "https://www.wannasurf.com/spot/Africa/Comoros/index.html"
+    },
+    {
+      "name": "Congo",
+      "href": "https://www.wannasurf.com/spot/Africa/Congo/index.html"
+    },
+    {
+      "name": "Egypt",
+      "href": "https://www.wannasurf.com/spot/Africa/Egypt/index.html"
+    },
+    {
+      "name": "Gabon",
+      "href": "https://www.wannasurf.com/spot/Africa/Gabon/index.html"
+    },
+    {
+      "name": "Gambia",
+      "href": "https://www.wannasurf.com/spot/Africa/Gambia/index.html"
+    },
+    {
+      "name": "Ghana",
+      "href": "https://www.wannasurf.com/spot/Africa/Ghana/index.html"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "href": "https://www.wannasurf.com/spot/Africa/Guinea-Bissau/index.html"
+    },
+    {
+      "name": "Ivory Coast",
+      "href": "https://www.wannasurf.com/spot/Africa/Ivory_Coast/index.html"
+    },
+    {
+      "name": "Kenya",
+      "href": "https://www.wannasurf.com/spot/Africa/Kenya/index.html"
+    },
+    {
+      "name": "Liberia",
+      "href": "https://www.wannasurf.com/spot/Africa/Liberia/index.html"
+    },
+    {
+      "name": "Libya",
+      "href": "https://www.wannasurf.com/spot/Africa/Libya/index.html"
+    },
+    {
+      "name": "Madagascar",
+      "href": "https://www.wannasurf.com/spot/Africa/Madagascar/index.html"
+    },
+    {
+      "name": "Mauritania",
+      "href": "https://www.wannasurf.com/spot/Africa/Mauritania/index.html"
+    },
+    {
+      "name": "Mauritius",
+      "href": "https://www.wannasurf.com/spot/Africa/Mauritius/index.html"
+    },
+    {
+      "name": "Mayotte",
+      "href": "https://www.wannasurf.com/spot/Africa/Mayotte/index.html"
+    },
+    {
+      "name": "Morocco",
+      "href": "https://www.wannasurf.com/spot/Africa/Morocco/index.html"
+    },
+    {
+      "name": "Mozambique",
+      "href": "https://www.wannasurf.com/spot/Africa/Mozambique/index.html"
+    },
+    {
+      "name": "Namibia",
+      "href": "https://www.wannasurf.com/spot/Africa/Namibia/index.html"
+    },
+    {
+      "name": "Nigeria",
+      "href": "https://www.wannasurf.com/spot/Africa/Nigeria/index.html"
+    },
+    {
+      "name": "Reunion Island",
+      "href": "https://www.wannasurf.com/spot/Africa/Reunion/index.html"
+    },
+    {
+      "name": "São Tomé",
+      "href": "https://www.wannasurf.com/spot/Africa/Sao_Tome/index.html"
+    },
+    {
+      "name": "Senegal",
+      "href": "https://www.wannasurf.com/spot/Africa/Senegal/index.html"
+    },
+    {
+      "name": "Seychelles",
+      "href": "https://www.wannasurf.com/spot/Africa/Seychelles/index.html"
+    },
+    {
+      "name": "Sierra leone",
+      "href": "https://www.wannasurf.com/spot/Africa/Sierra_Leone/index.html"
+    },
+    {
+      "name": "Somalia",
+      "href": "https://www.wannasurf.com/spot/Africa/Somalia/index.html"
+    },
+    {
+      "name": "South Africa",
+      "href": "https://www.wannasurf.com/spot/Africa/South_Africa/index.html"
+    },
+    {
+      "name": "Tanzania",
+      "href": "https://www.wannasurf.com/spot/Africa/Tanzania/index.html"
+    },
+    {
+      "name": "Togo",
+      "href": "https://www.wannasurf.com/spot/Africa/Togo/index.html"
+    },
+    {
+      "name": "Tunisia",
+      "href": "https://www.wannasurf.com/spot/Africa/Tunisia/index.html"
+    },
+    {
+      "name": "Western Sahara",
+      "href": "https://www.wannasurf.com/spot/Africa/Western_Sahara/index.html"
+    },
+    {
+      "name": "Zimbabwe",
+      "href": "https://www.wannasurf.com/spot/Africa/Zimbabwe/index.html"
+    },
+    {
+      "name": "Azerbaijan",
+      "href": "https://www.wannasurf.com/spot/Asia/Azerbaijan/index.html"
+    },
+    {
+      "name": "Bangladesh",
+      "href": "https://www.wannasurf.com/spot/Asia/Bangladesh/index.html"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "href": "https://www.wannasurf.com/spot/Asia/British_Indian_Ocean/index.html"
+    },
+    {
+      "name": "Brunei",
+      "href": "https://www.wannasurf.com/spot/Asia/Brunei/index.html"
+    },
+    {
+      "name": "Burma",
+      "href": "https://www.wannasurf.com/spot/Asia/Burma/index.html"
+    },
+    {
+      "name": "Cambodia",
+      "href": "https://www.wannasurf.com/spot/Asia/Cambodia/index.html"
+    },
+    {
+      "name": "China",
+      "href": "https://www.wannasurf.com/spot/Asia/China/index.html"
+    },
+    {
+      "name": "East Timor",
+      "href": "https://www.wannasurf.com/spot/Asia/East_Timor/index.html"
+    },
+    {
+      "name": "Hong-Kong",
+      "href": "https://www.wannasurf.com/spot/Asia/Hong_Kong/index.html"
+    },
+    {
+      "name": "India",
+      "href": "https://www.wannasurf.com/spot/Asia/India/index.html"
+    },
+    {
+      "name": "Indonesia",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/index.html"
+    },
+    {
+      "name": "Japan",
+      "href": "https://www.wannasurf.com/spot/Asia/Japan/index.html"
+    },
+    {
+      "name": "Kazakhstan",
+      "href": "https://www.wannasurf.com/spot/Asia/Kazakhstan/index.html"
+    },
+    {
+      "name": "Malaysia",
+      "href": "https://www.wannasurf.com/spot/Asia/Malaysia/index.html"
+    },
+    {
+      "name": "Maldives",
+      "href": "https://www.wannasurf.com/spot/Asia/Maldives/index.html"
+    },
+    {
+      "name": "Pakistan",
+      "href": "https://www.wannasurf.com/spot/Asia/Pakistan/index.html"
+    },
+    {
+      "name": "Philipines",
+      "href": "https://www.wannasurf.com/spot/Asia/Philippines/index.html"
+    },
+    {
+      "name": "Russia",
+      "href": "https://www.wannasurf.com/spot/Asia/Russia/index.html"
+    },
+    {
+      "name": "South Korea",
+      "href": "https://www.wannasurf.com/spot/Asia/South_Korea/index.html"
+    },
+    {
+      "name": "Sri Lanka",
+      "href": "https://www.wannasurf.com/spot/Asia/Sri_Lanka/index.html"
+    },
+    {
+      "name": "Taiwan",
+      "href": "https://www.wannasurf.com/spot/Asia/Taiwan/index.html"
+    },
+    {
+      "name": "Thailand",
+      "href": "https://www.wannasurf.com/spot/Asia/Thailand/index.html"
+    },
+    {
+      "name": "Vietnam",
+      "href": "https://www.wannasurf.com/spot/Asia/Vietnam/index.html"
+    },
+    {
+      "name": "American Samoa",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Samoa_American/index.html"
+    },
+    {
+      "name": "Australia",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Australia/index.html"
+    },
+    {
+      "name": "Christmas Islands",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Christmas/index.html"
+    },
+    {
+      "name": "Cook Islands",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Cook/index.html"
+    },
+    {
+      "name": "Easter Island",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Easter/index.html"
+    },
+    {
+      "name": "Fiji",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Fiji/index.html"
+    },
+    {
+      "name": "Kiribati",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Kiribati/index.html"
+    },
+    {
+      "name": "Marshall Islands",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Marshall_Islands/index.html"
+    },
+    {
+      "name": "Micronesia",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Micronesia/index.html"
+    },
+    {
+      "name": "Nauru",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Nauru/index.html"
+    },
+    {
+      "name": "New Caledonia",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/New_Caledonia/index.html"
+    },
+    {
+      "name": "New Zealand",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/New_Zealand/index.html"
+    },
+    {
+      "name": "Northen Mariana Island",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Mariana_Islands/index.html"
+    },
+    {
+      "name": "Papua New Guinea",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Papua_New_Guinea/index.html"
+    },
+    {
+      "name": "Polynesia",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/French_Polynesia/index.html"
+    },
+    {
+      "name": "Republic of Palau",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Palau/index.html"
+    },
+    {
+      "name": "Robinson Crusoe Islands",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Robinson_Crusoe/index.html"
+    },
+    {
+      "name": "Solomon Islands",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Solomon/index.html"
+    },
+    {
+      "name": "Tokelau",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Tokelau/index.html"
+    },
+    {
+      "name": "Tonga",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Tonga/index.html"
+    },
+    {
+      "name": "Vanuatu",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Vanuatu/index.html"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Wallis_Futuna/index.html"
+    },
+    {
+      "name": "Western Samoa",
+      "href": "https://www.wannasurf.com/spot/Australia_Pacific/Samoa_Western/index.html"
+    },
+    {
+      "name": "Albania",
+      "href": "https://www.wannasurf.com/spot/Europe/Albania/index.html"
+    },
+    {
+      "name": "Austria",
+      "href": "https://www.wannasurf.com/spot/Europe/Austria/index.html"
+    },
+    {
+      "name": "Azores",
+      "href": "https://www.wannasurf.com/spot/Europe/Azores/index.html"
+    },
+    {
+      "name": "Belgium",
+      "href": "https://www.wannasurf.com/spot/Europe/Belgium/index.html"
+    },
+    {
+      "name": "Bulgaria",
+      "href": "https://www.wannasurf.com/spot/Europe/Bulgaria/index.html"
+    },
+    {
+      "name": "Canary Islands",
+      "href": "https://www.wannasurf.com/spot/Europe/Canary/index.html"
+    },
+    {
+      "name": "Croatia",
+      "href": "https://www.wannasurf.com/spot/Europe/Croatia/index.html"
+    },
+    {
+      "name": "Cyprus",
+      "href": "https://www.wannasurf.com/spot/Europe/Cyprus/index.html"
+    },
+    {
+      "name": "Denmark",
+      "href": "https://www.wannasurf.com/spot/Europe/Denmark/index.html"
+    },
+    {
+      "name": "Estonia",
+      "href": "https://www.wannasurf.com/spot/Europe/Estonia/index.html"
+    },
+    {
+      "name": "Faroe Islands",
+      "href": "https://www.wannasurf.com/spot/Europe/Faroe/index.html"
+    },
+    {
+      "name": "Finland",
+      "href": "https://www.wannasurf.com/spot/Europe/Finland/index.html"
+    },
+    {
+      "name": "France",
+      "href": "https://www.wannasurf.com/spot/Europe/France/index.html"
+    },
+    {
+      "name": "Germany",
+      "href": "https://www.wannasurf.com/spot/Europe/Germany/index.html"
+    },
+    {
+      "name": "Greece",
+      "href": "https://www.wannasurf.com/spot/Europe/Greece/index.html"
+    },
+    {
+      "name": "Holland",
+      "href": "https://www.wannasurf.com/spot/Europe/Netherlands/index.html"
+    },
+    {
+      "name": "Iceland",
+      "href": "https://www.wannasurf.com/spot/Europe/Iceland/index.html"
+    },
+    {
+      "name": "Ireland",
+      "href": "https://www.wannasurf.com/spot/Europe/Ireland/index.html"
+    },
+    {
+      "name": "Italy",
+      "href": "https://www.wannasurf.com/spot/Europe/Italy/index.html"
+    },
+    {
+      "name": "Latvia",
+      "href": "https://www.wannasurf.com/spot/Europe/Latvia/index.html"
+    },
+    {
+      "name": "Lithuania",
+      "href": "https://www.wannasurf.com/spot/Europe/Lithuania/index.html"
+    },
+    {
+      "name": "Madeira",
+      "href": "https://www.wannasurf.com/spot/Europe/Madeira/index.html"
+    },
+    {
+      "name": "Malta",
+      "href": "https://www.wannasurf.com/spot/Europe/Malta/index.html"
+    },
+    {
+      "name": "Montenegro",
+      "href": "https://www.wannasurf.com/spot/Europe/Montenegro/index.html"
+    },
+    {
+      "name": "Norway",
+      "href": "https://www.wannasurf.com/spot/Europe/Norway/index.html"
+    },
+    {
+      "name": "Poland",
+      "href": "https://www.wannasurf.com/spot/Europe/Poland/index.html"
+    },
+    {
+      "name": "Portugal",
+      "href": "https://www.wannasurf.com/spot/Europe/Portugal/index.html"
+    },
+    {
+      "name": "Slovenia",
+      "href": "https://www.wannasurf.com/spot/Europe/Slovenia/index.html"
+    },
+    {
+      "name": "Spain",
+      "href": "https://www.wannasurf.com/spot/Europe/Spain/index.html"
+    },
+    {
+      "name": "Sweden",
+      "href": "https://www.wannasurf.com/spot/Europe/Sweden/index.html"
+    },
+    {
+      "name": "Switzerland",
+      "href": "https://www.wannasurf.com/spot/Europe/Switzerland/index.html"
+    },
+    {
+      "name": "UK",
+      "href": "https://www.wannasurf.com/spot/Europe/UK/index.html"
+    },
+    {
+      "name": "Ukraine",
+      "href": "https://www.wannasurf.com/spot/Europe/Ukraine/index.html"
+    },
+    {
+      "name": "Anguilla",
+      "href": "https://www.wannasurf.com/spot/Central_America/Anguilla/index.html"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "href": "https://www.wannasurf.com/spot/Central_America/Antigua/index.html"
+    },
+    {
+      "name": "Aruba",
+      "href": "https://www.wannasurf.com/spot/Central_America/Aruba/index.html"
+    },
+    {
+      "name": "Bahamas",
+      "href": "https://www.wannasurf.com/spot/Central_America/Bahamas/index.html"
+    },
+    {
+      "name": "Barbados",
+      "href": "https://www.wannasurf.com/spot/Central_America/Barbados/index.html"
+    },
+    {
+      "name": "Belize",
+      "href": "https://www.wannasurf.com/spot/Central_America/Belize/index.html"
+    },
+    {
+      "name": "Bermuda",
+      "href": "https://www.wannasurf.com/spot/Central_America/Bermuda/index.html"
+    },
+    {
+      "name": "Bonaire",
+      "href": "https://www.wannasurf.com/spot/Central_America/Bonaire/index.html"
+    },
+    {
+      "name": "British Virgin Islands",
+      "href": "https://www.wannasurf.com/spot/Central_America/British_Virgin/index.html"
+    },
+    {
+      "name": "Cayman Islands",
+      "href": "https://www.wannasurf.com/spot/Central_America/Cayman/index.html"
+    },
+    {
+      "name": "Costa rica",
+      "href": "https://www.wannasurf.com/spot/Central_America/Costa_Rica/index.html"
+    },
+    {
+      "name": "Cuba",
+      "href": "https://www.wannasurf.com/spot/Central_America/Cuba/index.html"
+    },
+    {
+      "name": "Curaçao",
+      "href": "https://www.wannasurf.com/spot/Central_America/Curacao/index.html"
+    },
+    {
+      "name": "Dominica",
+      "href": "https://www.wannasurf.com/spot/Central_America/Dominica/index.html"
+    },
+    {
+      "name": "Dominican Republic",
+      "href": "https://www.wannasurf.com/spot/Central_America/Dominican_Republic/index.html"
+    },
+    {
+      "name": "El Salvador",
+      "href": "https://www.wannasurf.com/spot/Central_America/El_Salvador/index.html"
+    },
+    {
+      "name": "Grenada",
+      "href": "https://www.wannasurf.com/spot/Central_America/Grenada/index.html"
+    },
+    {
+      "name": "Guadeloupe",
+      "href": "https://www.wannasurf.com/spot/Central_America/Guadeloupe/index.html"
+    },
+    {
+      "name": "Guatemala",
+      "href": "https://www.wannasurf.com/spot/Central_America/Guatemala/index.html"
+    },
+    {
+      "name": "Haiti and Navassa",
+      "href": "https://www.wannasurf.com/spot/Central_America/Haiti/index.html"
+    },
+    {
+      "name": "Honduras",
+      "href": "https://www.wannasurf.com/spot/Central_America/Honduras/index.html"
+    },
+    {
+      "name": "Jamaica",
+      "href": "https://www.wannasurf.com/spot/Central_America/Jamaica/index.html"
+    },
+    {
+      "name": "Martinique",
+      "href": "https://www.wannasurf.com/spot/Central_America/Martinique/index.html"
+    },
+    {
+      "name": "Mexico",
+      "href": "https://www.wannasurf.com/spot/Central_America/Mexico/index.html"
+    },
+    {
+      "name": "Montserrat",
+      "href": "https://www.wannasurf.com/spot/Central_America/Montserrat/index.html"
+    },
+    {
+      "name": "Nicaragua",
+      "href": "https://www.wannasurf.com/spot/Central_America/Nicaragua/index.html"
+    },
+    {
+      "name": "Panama",
+      "href": "https://www.wannasurf.com/spot/Central_America/Panama/index.html"
+    },
+    {
+      "name": "Puerto Rico",
+      "href": "https://www.wannasurf.com/spot/Central_America/Puerto_Rico/index.html"
+    },
+    {
+      "name": "Saba",
+      "href": "https://www.wannasurf.com/spot/Central_America/Saba/index.html"
+    },
+    {
+      "name": "Saint Barthelemy",
+      "href": "https://www.wannasurf.com/spot/Central_America/St_Barthelemy/index.html"
+    },
+    {
+      "name": "Saint Kitts and Nevis Island",
+      "href": "https://www.wannasurf.com/spot/Central_America/St_Kitts/index.html"
+    },
+    {
+      "name": "Saint Martin",
+      "href": "https://www.wannasurf.com/spot/Central_America/St_Martin/index.html"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "href": "https://www.wannasurf.com/spot/Central_America/St_Vincent_Grenadines/index.html"
+    },
+    {
+      "name": "Sainte Lucia",
+      "href": "https://www.wannasurf.com/spot/Central_America/St_Lucia/index.html"
+    },
+    {
+      "name": "Tobago",
+      "href": "https://www.wannasurf.com/spot/Central_America/Tobago/index.html"
+    },
+    {
+      "name": "Trinidad",
+      "href": "https://www.wannasurf.com/spot/Central_America/Trinidad/index.html"
+    },
+    {
+      "name": "Turks and Caicos",
+      "href": "https://www.wannasurf.com/spot/Central_America/Turks___Caicos/index.html"
+    },
+    {
+      "name": "US Virgin Islands",
+      "href": "https://www.wannasurf.com/spot/Central_America/Virgin_Islands/index.html"
+    },
+    {
+      "name": "Iran",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Iran/index.html"
+    },
+    {
+      "name": "Israel",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Israel/index.html"
+    },
+    {
+      "name": "Kuwait",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Kuwait/index.html"
+    },
+    {
+      "name": "Lebanon",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Lebanon/index.html"
+    },
+    {
+      "name": "Oman",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Oman/index.html"
+    },
+    {
+      "name": "Qatar",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Qatar/index.html"
+    },
+    {
+      "name": "Syria",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Syria/index.html"
+    },
+    {
+      "name": "Turkey",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Turkey/index.html"
+    },
+    {
+      "name": "United Arabs Emirates",
+      "href": "https://www.wannasurf.com/spot/Middle_East/UAE/index.html"
+    },
+    {
+      "name": "Yemen",
+      "href": "https://www.wannasurf.com/spot/Middle_East/Yemen/index.html"
+    },
+    {
+      "name": "Canada",
+      "href": "https://www.wannasurf.com/spot/North_America/Canada/index.html"
+    },
+    {
+      "name": "United States of America",
+      "href": "https://www.wannasurf.com/spot/North_America/USA/index.html"
+    },
+    {
+      "name": "Argentina",
+      "href": "https://www.wannasurf.com/spot/South_America/Argentina/index.html"
+    },
+    {
+      "name": "Brazil",
+      "href": "https://www.wannasurf.com/spot/South_America/Brazil/index.html"
+    },
+    {
+      "name": "Chile",
+      "href": "https://www.wannasurf.com/spot/South_America/Chile/index.html"
+    },
+    {
+      "name": "Colombia",
+      "href": "https://www.wannasurf.com/spot/South_America/Colombia/index.html"
+    },
+    {
+      "name": "Ecuador",
+      "href": "https://www.wannasurf.com/spot/South_America/Ecuador/index.html"
+    },
+    {
+      "name": "Falkland Islands",
+      "href": "https://www.wannasurf.com/spot/South_America/Falkland_Islands/index.html"
+    },
+    {
+      "name": "French Guiana",
+      "href": "https://www.wannasurf.com/spot/South_America/French_Guiana/index.html"
+    },
+    {
+      "name": "Peru",
+      "href": "https://www.wannasurf.com/spot/South_America/Peru/index.html"
+    },
+    {
+      "name": "Uruguay",
+      "href": "https://www.wannasurf.com/spot/South_America/Uruguay/index.html"
+    },
+    {
+      "name": "Venezuela",
+      "href": "https://www.wannasurf.com/spot/South_America/Venezuela/index.html"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "name": "Sulawesi",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Sulawesi/index.html"
+    },
+    {
+      "name": "Sumba, Flores, Savu, Timor",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Savu_Sea/index.html"
+    },
+    {
+      "name": "Sumbawa",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Sumbawa/index.html"
+    },
+    {
+      "name": "Lombok",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Lombok/index.html"
+    },
+    {
+      "name": "Bali",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Bali/index.html"
+    },
+    {
+      "name": "East Java",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/East_Java/index.html"
+    },
+    {
+      "name": "Central Java",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Central_Java/index.html"
+    },
+    {
+      "name": "West Java",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/West_Java/index.html"
+    },
+    {
+      "name": "Mentawai",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Mentawai/index.html"
+    },
+    {
+      "name": "Sumatra Mainland",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Sumatra_Mainland/index.html"
+    },
+    {
+      "name": "Sumatra Islands (Enggano,Nias, Hinako Islands)",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Sumatra_Islands/index.html"
+    },
+    {
+      "name": "South China Sea, Others",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Others/index.html"
+    },
+    {
+      "name": "Papua",
+      "href": "https://www.wannasurf.com/spot/Asia/Indonesia/Papua/index.html"
+    }
+  ],
+  "monthsQuality": [
+    "2",
+    "1",
+    "1",
+    "1",
+    "3",
+    "2"
+  ],
+  "hasSurfSpots": false
+}
